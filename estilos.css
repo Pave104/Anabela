@@ -3,7 +3,7 @@
 
 .fundo{
 
-  background-image: url('fundo.png');
+  background-image: url('imagem/fundo.png');
    font:16px Arial, Helvertica, sans-serif;
     width: 900px;
 
@@ -41,4 +41,19 @@ background-color: #e8e8d9;
 
 
  	text-align: center;
+ }
+
+
+ h1{
+
+  color: 828271;
+  font-size: 1.2em;
+
+ }
+
+
+ .imgcampanha{
+  
+     border: 20px solid #e44304;
+
  }
